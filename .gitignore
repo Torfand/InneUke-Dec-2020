@@ -351,3 +351,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+Functional programming/Express Yourself/Ex2/.idea/.idea.Ex2/.idea/contentModel.xml
+Functional programming/Express Yourself/Ex2/.idea/.idea.Ex2/.idea/vcs.xml
+*.xml
+*.xml
